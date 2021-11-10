@@ -6,3 +6,22 @@ Author: Thomas van Steen
 
 */
 
+.widget_block {
+    list-style: none;
+}
+
+.blocks-gallery-item img {
+    max-width: 100%;
+    height: auto;
+    margin-left: -80px;
+    border: 2px solid black;
+}
+
+.wp-block-image img {
+    margin-left: -40px;
+    border: 2px solid black;
+}
+
+#menu a {
+    margin: 0 30px;
+}
